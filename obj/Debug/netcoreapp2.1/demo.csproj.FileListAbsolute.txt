@@ -1,0 +1,14 @@
+C:\AzureTraining\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+C:\AzureTraining\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+C:\AzureTraining\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+C:\AzureTraining\demo\bin\Debug\netcoreapp2.1\demo.dll
+C:\AzureTraining\demo\bin\Debug\netcoreapp2.1\demo.pdb
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cache
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cs
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.RazorTargetAssemblyInfo.cache
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.dll
+C:\AzureTraining\demo\obj\Debug\netcoreapp2.1\demo.pdb
